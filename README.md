@@ -60,7 +60,7 @@ I am Jeremy Hunt, a Microsoft Excel expert with over 10 years of experience in d
 
 ## Current Activities
 
-- **Researcher/Senior Researcher/Student** (February 2017-Present)
+- **Research Technologist/Researcher/Senior Researcher/Student, St. Jude Children's Research Hospital** (May 2006-Present)
 - **Minister, Deliverance Temple Restoration Ministries** (July 2009 - Present)
 - **Ordained Deacon, Deliverance Temple Restoration Ministries** (July 2005-July 2009)
 - **Volunteer Private Tutor** (May 2002-Present)
