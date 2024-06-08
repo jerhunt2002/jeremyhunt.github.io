@@ -16,12 +16,12 @@ Welcome to my portfolio repository! This repository showcases my skills and proj
 
 ## About Me
 
-I am Jeremy Hunt, a Microsoft Excel expert with over 10 years of experience in data analysis, management, and complex spreadsheet solutions. I am dedicated to helping businesses and individuals optimize their data processes and achieve their goals with precision and efficiency.
+I am Jeremy Hunt, an experienced Researcher and Microsoft Excel expert with over 10 years of experience in data analysis, management, and complex spreadsheet solutions. Additionally, I have extensive ministerial experience, providing leadership, counseling, and community outreach. I am committed to helping businesses, individuals, and communities optimize their data processes and achieve their goals with precision, efficiency, and compassionate guidance.
 
 ## Education
 
+- 2024: Course Careers Information Technology Course
 - 2023: Good Clinical Practice for Clinical Research Professionals (Udemy)
-- 2023: Course Careers Information Technology Course
 - 2023: Complete 2023 Web Development Bootcamp
 - 2009-Present: Human Subjects Research and Good Clinical Practice for Clinical Trials (CITI)
 - 2019-Present: International University of the Health Sciences, College of Medicine Student, St. Kitts and Nevis
@@ -57,11 +57,32 @@ I am Jeremy Hunt, a Microsoft Excel expert with over 10 years of experience in d
 - Clinical research (10+ years)
 - Data mining (10+ years)
 - Bookkeeping (6 years)
+- Accounts Receivables
+- Microsoft Azure
+- osTicket
+- VPN Setup and Usage
+- Active Directory User and Group Management
+- Network and File Share Management
+- Website Development and Management (Nicepage)
+- Content Management System (CMS)
+- Web Design
+- Graphic Design
+- HTML/CSS
+- Responsive Design
+- User Experience (UX) Design
+- Digital Marketing
+- Molecular Biology Techniques
+- Nucleic Acid Isolation (DNA & RNA)
+- PCR (Polymerase Chain Reaction)
+- Gel Electrophoresis
+- RNA and DNA Sequencing
+- Project Management
+
 
 ## Current Activities
 
 - **Research Technologist/Researcher/Senior Researcher/Student, St. Jude Children's Research Hospital** (May 2006-Present)
-- **Minister, Deliverance Temple Restoration Ministries** (July 2009 - Present)
+- **Minister and Website Administrator, Deliverance Temple Restoration Ministries** (July 2009 - Present)
 - **Ordained Deacon, Deliverance Temple Restoration Ministries** (July 2005-July 2009)
 - **Volunteer Private Tutor** (May 2002-Present)
 
@@ -83,11 +104,11 @@ I am Jeremy Hunt, a Microsoft Excel expert with over 10 years of experience in d
 
 ### [Data Entry and Management Spreadsheet](https://jeremyhunt.github.io/projects/Data_Entry_Spreadsheet_Anonymized.xlsx)
 
-An example of a complex Excel workbook designed for efficient data entry and management.
+An example of a complex Excel workbook designed for efficient data entry and management, and the monitoring of accounts receivables for a non-profit religious organization.
 
-### [Website Project](https://jeremyhunt.github.io/project-url/)
+### [Website Project](https://www.DTRMMinistries.com)
 
-Description of the website project.
+DTRM Memphis is the official website of Deliverance Temple Restoration Ministries, designed to provide a comprehensive online presence for the ministry. The site features information about the church's mission, services, events, community outreach programs, and places to collect online donations as well as user contact information and questions. Developed and managed using Nicepage, the website is user-friendly, responsive, and regularly updated to keep the congregation and visitors informed and engaged.
 
 ## Contact
 
