@@ -106,7 +106,7 @@ I am Jeremy Hunt, an experienced Researcher and Microsoft Excel expert with over
 
 An example of a complex Excel workbook designed for efficient data entry and management, and the monitoring of accounts receivables for a non-profit religious organization.
 
-### [Website Project](https://www.DTRMMinistries.com)
+### [Website Project](https://www.DTRMMemphis.com)
 
 DTRM Memphis is the official website of Deliverance Temple Restoration Ministries, designed to provide a comprehensive online presence for the ministry. The site features information about the church's mission, services, events, community outreach programs, and places to collect online donations as well as user contact information and questions. Developed and managed using Nicepage, the website is user-friendly, responsive, and regularly updated to keep the congregation and visitors informed and engaged.
 
