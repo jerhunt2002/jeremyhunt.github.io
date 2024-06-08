@@ -55,6 +55,7 @@ I am Jeremy Hunt, an experienced Researcher and Microsoft Excel expert with over
 - Tutoring
 - EMR Systems (10+ years)
 - Medical Records
+- EPIC
 - Laboratory Experience (10+ years)
 - Clinical research (10+ years)
 - Data mining (10+ years)
