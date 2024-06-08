@@ -16,6 +16,8 @@ Welcome to my portfolio repository! This repository showcases my skills and proj
 
 ## About Me
 
+![Profile Picture](path/to/your/profile_picture.jpg)
+
 I am Jeremy Hunt, an experienced Researcher and Microsoft Excel expert with over 10 years of experience in data analysis, management, and complex spreadsheet solutions. Additionally, I have extensive ministerial experience, providing leadership, counseling, and community outreach. I am committed to helping businesses, individuals, and communities optimize their data processes and achieve their goals with precision, efficiency, and compassionate guidance.
 
 ## Education
