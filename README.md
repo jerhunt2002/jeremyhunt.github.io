@@ -105,7 +105,7 @@ I am Jeremy Hunt, an experienced Researcher and Microsoft Excel expert with over
 
 ## Portfolio Projects
 
-### [Data Entry and Management Spreadsheet](https://jeremyhunt.github.io/projects/Data_Entry_Spreadsheet_Anonymized.xlsx)
+### [Data Entry and Management Spreadsheet](https://jeremyhunt.github.io/projects/Church_Accounts_Receivable_Spreadsheet.xlsx)
 
 An example of a complex Excel workbook designed for efficient data entry and management, and the monitoring of accounts receivables for a non-profit religious organization. Please note that financial data in this spreadsheet file is fictional and for informational purposes only!
 
