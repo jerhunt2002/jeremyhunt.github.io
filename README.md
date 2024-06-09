@@ -105,7 +105,7 @@ I am Jeremy Hunt, an experienced Researcher and Microsoft Excel expert with over
 
 ## Portfolio Projects
 
-### [Church_Accounts_Receivable_Spreadsheet](https://github.com/jerhunt2002/jeremyhunt.github.io/blob/main/projects/Church_Accounts_Receivable_Spreadsheet.xlsb)
+### [Church_Accounts_Receivable_Spreadsheet](https://drive.google.com/file/d/15zUqdQBtMGyifVSGA6hhzXPiTRKR_RVk/view?usp=sharing)
 
 This is an example of a complex Excel workbook designed for efficient data entry and management, and the monitoring of accounts receivables for a non-profit religious organization. Please note that financial data in this spreadsheet file is fictional and for informational purposes only!
 
