@@ -80,14 +80,17 @@ I am Jeremy Hunt, an experienced Researcher and Microsoft Excel expert with over
 - Gel Electrophoresis
 - RNA and DNA Sequencing
 - Project Management
+- Training and Standard Operating Procedure Preparation
 
 
 ## Current Activities
 
 - **Research Technologist/Researcher/Senior Researcher/Student, St. Jude Children's Research Hospital** (May 2006-Present)
-- **Minister and Website Administrator, Deliverance Temple Restoration Ministries** (July 2009 - Present)
+- **Minister,Financial Officer, and Website Administrator, Deliverance Temple Restoration Ministries** (July 2009 - Present)
 - **Ordained Deacon, Deliverance Temple Restoration Ministries** (July 2005-July 2009)
 - **Volunteer Private Tutor** (May 2002-Present)
+- **Work Study Student, Chirstian Brothers University** (August 2002-May 2006)
+- **Cashier/Courtesy Clerk, Kroger Food Stores** (June 2000-October 2003)
 
 ## Shadowing Experience
 
