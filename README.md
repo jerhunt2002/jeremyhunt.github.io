@@ -18,7 +18,7 @@ Welcome to my portfolio repository! This repository showcases my skills and proj
 
 ![My_Picture](images/My_Picture.jpg)
 
-I am Jeremy Hunt, an experienced Researcher and Microsoft Excel expert with over 10 years of experience in data analysis, management, and complex spreadsheet solutions. In addition to my extensive ministerial experience providing leadership, counseling, and community outreach, I am currently a medical student. My commitment to helping businesses, individuals, and communities optimize their data processes and achieve their goals with precision, efficiency, and compassionate guidance remains unwavering as I work my way through school. I am interested in contributing to the greater good through servant leadership and the application of skills and interests in research, business, ministry, finance, and healthcare.
+I am Jeremy Hunt, an experienced Researcher and Microsoft Excel expert with over 10 years of experience in data analysis, management, and complex spreadsheet solutions. In addition to my extensive ministerial experience providing leadership, counseling, and community outreach. My commitment to helping businesses, individuals, and communities optimize their data processes and achieve their goals with precision, efficiency, and compassionate guidance remains unwavering as I work my way through school. I am interested in contributing to the greater good through servant leadership and the application of skills and interests in research, business, ministry, finance, and healthcare.
 
 ## Education
 
