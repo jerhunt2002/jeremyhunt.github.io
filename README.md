@@ -85,6 +85,7 @@ I am Jeremy Hunt, a seasoned researcher and Microsoft Excel specialist with over
 
 ## Current Activities
 
+- **Founder/Principal Consultant, J T Hunt Enterprises, LLC** (November 2024- Present)
 - **Research Technologist/Researcher/Senior Researcher/Student, St. Jude Children's Research Hospital** (May 2006- January 2025)
 - **Associate Minister, Melrose Missionary Baptist Church** (October 2024-Present)
 - **Minister,Financial Officer, and Website Administrator, Deliverance Temple Restoration Ministries** (July 2009 - September 2024)
