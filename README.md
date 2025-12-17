@@ -109,6 +109,10 @@ I am Jeremy Hunt, a seasoned researcher and Microsoft Excel specialist with over
 
 ## Portfolio Projects
 
+### [AI-Assisted Clinical Trial Operations System](https://auditguard.jthuntenterprises.com)
+
+This portfolio project showcases an AI-assisted clinical trial operations system designed to simulate the core responsibilities of a Trial Documentation Associate II. The system supports regulatory oversight across the full clinical trial lifecycle, including study start-up, maintenance, and close-out activities. It tracks regulatory obligations derived from protocols, IRB requirements, and institutional SOPs while supporting eTMF-aligned document workflows and continuous inspection readiness. The system incorporates risk-based monitoring principles through the use of key risk indicators to identify and escalate potential compliance issues early. All documentation workflows are structured to remain audit-ready and aligned with FDA 21 CFR Part 11 and ICH-GCP E6(R2) standards. The platform also supports multi-study oversight using standardized workflows to reduce the risk of missed milestones or documentation gaps and to reinforce data integrity and patient safety.
+
 ### [Church_Accounts_Receivable_Spreadsheet](https://drive.google.com/file/d/15zUqdQBtMGyifVSGA6hhzXPiTRKR_RVk/view?usp=sharing)
 
 This is an example of a complex Excel workbook designed for efficient data entry and management, and the monitoring of accounts receivables for a non-profit religious organization. Please note that financial data in this spreadsheet file is fictional and for informational purposes only!
